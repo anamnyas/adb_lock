@@ -1,131 +1,118 @@
-## Youtube (https://github.com/arthurgeron/blockYTAds)
-2975c.v.fwmrm.net
-2mdn.net
-ad-g.doubleclick.net
-ad.doubleclick.net
-ad.mo.doubleclick.net
-ad.youtube.com
-ads.doubleclick.net
-ads.youtube.com
-akamaiedge.net
-akamaitechnologies.com
-analytic-google.com
-clients1.google.com
-doubleclick.net
-dts.innovid.com
-files.adform.net
-fwmrm.net
-googleadapis.l.google.com
-googleads.g.doubleclick.net
-googleads4.g.doubleclick.net
-googleadservices.com
-i1.ytimg.com
-innovid.com
-ocsp.comodoca.com
-pagead.googlesyndication.com
-pagead.l.doubleclick.net
-pagead1.googlesyndication.com
-pagead2.googlesyndication.com
-pixel.moatads.com
-pubads.g.doubleclick.net
-r1---sn-vgqsen7z.googlevideo.com
-r1.sn-vgqsen7z.googlevideo.com
-r17---sn-vgqsenes.googlevideo.com
-r2---sn-hp57yne7.googlevideo.com
-r2---sn-vgqs7n7k.googlevideo.com
-r20---sn-vgqs7ne7.googlevideo.com
-r20.sn-vgqs7ne7.googlevideo.com
-r3---sn-hp57knsl.googlevideo.com
-r4---sn-vgqs7nez.googlevideo.com
-r4.sn-vgqs7nez.googlevideo.com
-r5---sn-hp57kn6e.googlevideo.com
-r5.sn-32o-guhl.googlevideo.com
-r6---sn-vgqseney.googlevideo.com
-r7---sn-8p8v-bg0d.googlevideo.com
-r8---sn-8p8v-bg0d.googlevideo.com
-redirector.googlevideo.com
-rtd.tubemogul.com
-s.innovid.com
-s0.2mdn.net
-secure-ds.serving-sys.com
-securepubads.g.doubleclick.net
-ssl.google-analytics.com
-static.doubleclick.net
-stats.g.doubleclick.net
-www-google-analytics.l.google.com
-www-googletagmanager.l.google.com
-www.analytic-google.com
-www.googleadservices.com
-www.googletagservices.com
-www.youtube-nocookie.com
-youtube-nocookie.com
-
-# [yahoo.com]
-ads.yahoo.com
-adserver.yahoo.com
-global.adserver.yahoo.com
-us.adserver.yahoo.com
-adspecs.yahoo.com
-latam.adspecs.yahoo.com
-ush.adspecs.yahoo.com
-advertising.yahoo.com
-in.advertising.yahoo.com
-sea.advertising.yahoo.com
-uk.advertising.yahoo.com
-analytics.yahoo.com
-opus.analytics.yahoo.com
-sp.analytics.yahoo.com
-beap-bc.yahoo.com
-comet.yahoo.com
-fc.yahoo.com
-log.fc.yahoo.com
-ganon.yahoo.com
-gemini.yahoo.com
-beap.gemini.yahoo.com
-geo.yahoo.com
-marketingsolutions.yahoo.com
-pclick.yahoo.com
-analytics.query.yahoo.com
-geo.query.yahoo.com
-onepush.query.yahoo.com
-bats.video.yahoo.com
-visit.webhosting.yahoo.com
-ads.yap.yahoo.com
-m.yap.yahoo.com
-partnerads.ysm.yahoo.com
-
-# [yandex.com]
-appmetrica.yandex.com
-redirect.appmetrica.yandex.com
-19534.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
-
-# [yandex.net]
-report.appmetrica.yandex.net
-startup.mobile.yandex.net
-
-# [yandex.ru]
-adfox.yandex.ru
-matchid.adfox.yandex.ru
-adsdk.yandex.ru
-an.yandex.ru
-redirect.appmetrica.yandex.ru
-awaps.yandex.ru
-bs.yandex.ru
-clck.yandex.ru
-informer.yandex.ru
-kiks.yandex.ru
-grade.market.yandex.ru
-mc.yandex.ru
-metrika.yandex.ru
-click.sender.yandex.ru
-share.yandex.ru
-
-# [yandexadexchange.net]
-yandexadexchange.net
-mobile.yandexadexchange.net
-
-
+127.0.0.1 2975c.v.fwmrm.net
+127.0.0.1 2mdn.net
+127.0.0.1 ad-g.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad.mo.doubleclick.net
+127.0.0.1 ad.youtube.com
+127.0.0.1 ads.doubleclick.net
+127.0.0.1 ads.youtube.com
+127.0.0.1 akamaiedge.net
+127.0.0.1 akamaitechnologies.com
+127.0.0.1 analytic-google.com
+127.0.0.1 clients1.google.com
+127.0.0.1 doubleclick.net
+127.0.0.1 dts.innovid.com
+127.0.0.1 files.adform.net
+127.0.0.1 fwmrm.net
+127.0.0.1 googleadapis.l.google.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 googleads4.g.doubleclick.net
+127.0.0.1 googleadservices.com
+127.0.0.1 i1.ytimg.com
+127.0.0.1 innovid.com
+127.0.0.1 ocsp.comodoca.com
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead.l.doubleclick.net
+127.0.0.1 pagead1.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 pixel.moatads.com
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 r1---sn-vgqsen7z.googlevideo.com
+127.0.0.1 r1.sn-vgqsen7z.googlevideo.com
+127.0.0.1 r17---sn-vgqsenes.googlevideo.com
+127.0.0.1 r2---sn-hp57yne7.googlevideo.com
+127.0.0.1 r2---sn-vgqs7n7k.googlevideo.com
+127.0.0.1 r20---sn-vgqs7ne7.googlevideo.com
+127.0.0.1 r20.sn-vgqs7ne7.googlevideo.com
+127.0.0.1 r3---sn-hp57knsl.googlevideo.com
+127.0.0.1 r4---sn-vgqs7nez.googlevideo.com
+127.0.0.1 r4.sn-vgqs7nez.googlevideo.com
+127.0.0.1 r5---sn-hp57kn6e.googlevideo.com
+127.0.0.1 r5.sn-32o-guhl.googlevideo.com
+127.0.0.1 r6---sn-vgqseney.googlevideo.com
+127.0.0.1 r7---sn-8p8v-bg0d.googlevideo.com
+127.0.0.1 r8---sn-8p8v-bg0d.googlevideo.com
+127.0.0.1 redirector.googlevideo.com
+127.0.0.1 rtd.tubemogul.com
+127.0.0.1 s.innovid.com
+127.0.0.1 s0.2mdn.net
+127.0.0.1 secure-ds.serving-sys.com
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 static.doubleclick.net
+127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 www-google-analytics.l.google.com
+127.0.0.1 www-googletagmanager.l.google.com
+127.0.0.1 www.analytic-google.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 www.googletagservices.com
+127.0.0.1 www.youtube-nocookie.com
+127.0.0.1 youtube-nocookie.com
+127.0.0.1 ads.yahoo.com
+127.0.0.1 adserver.yahoo.com
+127.0.0.1 global.adserver.yahoo.com
+127.0.0.1 us.adserver.yahoo.com
+127.0.0.1 adspecs.yahoo.com
+127.0.0.1 latam.adspecs.yahoo.com
+127.0.0.1 ush.adspecs.yahoo.com
+127.0.0.1 advertising.yahoo.com
+127.0.0.1 in.advertising.yahoo.com
+127.0.0.1 sea.advertising.yahoo.com
+127.0.0.1 uk.advertising.yahoo.com
+127.0.0.1 analytics.yahoo.com
+127.0.0.1 opus.analytics.yahoo.com
+127.0.0.1 sp.analytics.yahoo.com
+127.0.0.1 beap-bc.yahoo.com
+127.0.0.1 comet.yahoo.com
+127.0.0.1 fc.yahoo.com
+127.0.0.1 log.fc.yahoo.com
+127.0.0.1 ganon.yahoo.com
+127.0.0.1 gemini.yahoo.com
+127.0.0.1 beap.gemini.yahoo.com
+127.0.0.1 geo.yahoo.com
+127.0.0.1 marketingsolutions.yahoo.com
+127.0.0.1 pclick.yahoo.com
+127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 geo.query.yahoo.com
+127.0.0.1 onepush.query.yahoo.com
+127.0.0.1 bats.video.yahoo.com
+127.0.0.1 visit.webhosting.yahoo.com
+127.0.0.1 ads.yap.yahoo.com
+127.0.0.1 m.yap.yahoo.com
+127.0.0.1 partnerads.ysm.yahoo.com
+127.0.0.1 appmetrica.yandex.com
+127.0.0.1 redirect.appmetrica.yandex.com
+127.0.0.1 19534.redirect.appmetrica.yandex.com
+127.0.0.1 3.redirect.appmetrica.yandex.com
+127.0.0.1 report.appmetrica.yandex.net
+127.0.0.1 startup.mobile.yandex.net
+127.0.0.1 adfox.yandex.ru
+127.0.0.1 matchid.adfox.yandex.ru
+127.0.0.1 adsdk.yandex.ru
+127.0.0.1 an.yandex.ru
+127.0.0.1 redirect.appmetrica.yandex.ru
+127.0.0.1 awaps.yandex.ru
+127.0.0.1 bs.yandex.ru
+127.0.0.1 clck.yandex.ru
+127.0.0.1 informer.yandex.ru
+127.0.0.1 grade.market.yandex.ru
+127.0.0.1 kiks.yandex.ru
+127.0.0.1 mc.yandex.ru
+127.0.0.1 metrika.yandex.ru
+127.0.0.1 click.sender.yandex.ru
+127.0.0.1 share.yandex.ru
+127.0.0.1 yandexadexchange.net
+127.0.0.1 mobile.yandexadexchange.net
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
