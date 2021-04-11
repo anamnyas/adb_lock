@@ -1,3 +1,5 @@
+127.0.0.1 ihfxao.com
+127.0.0.1 separtor.separator.separator.separator.separator.separator
 127.0.0.1 2975c.v.fwmrm.net
 127.0.0.1 2mdn.net
 127.0.0.1 ad-g.doubleclick.net
